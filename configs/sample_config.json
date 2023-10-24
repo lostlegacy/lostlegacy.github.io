@@ -8,6 +8,7 @@
    "splash_logo_url":"",
    "splash_sublogo_url":"",
    "force_update_ios_v2":"{\"require_force_update\":true,\"version_code\":30}",
+   "force_update_android_v2":"{\"require_force_update\":true,\"version_code\":30}",
    "maintenance_mode_ios":"{\"enable_maintenance_mode\":false, \"expected_up_time\": \"2023-10-16 23:59\"}",
    "maintenance_mode_android":"{\"enable_maintenance_mode\":false, \"expected_up_time\": \"2023-10-16 23:59\"}",
    "feature_flag_config":"{\"require_force_update\":true,\"version_code\":56}"
