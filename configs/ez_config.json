@@ -1,0 +1,5 @@
+{
+   "config_version":1,
+   "force_update_ios":"{\"require_force_update\":false,\"version_code\":30}",
+   "force_update_android":"{\"require_force_update\":true,\"version_code\":30}"
+}
