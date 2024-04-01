@@ -1,5 +1,5 @@
 {
-  "config_version": "2",
+  "config_version": "3",
   "accelerometer_assessment_android": "true",
   "battery_status_assessment_android": "true",
   "biometric_assessment_android": "true",
@@ -52,7 +52,9 @@
   "microphone_assessment_ios": "true",
   "home_button_assessment_ios": "true",
   "is_maintenance_ios": "false",
-  "force_update_ios": "1.0.0",
-  "force_update_android": "0",
-  "is_maintenance_android": "false"
+  "force_update_ios": "1.0.3",
+  "force_update_android": "1000202",
+  "is_maintenance_android": "false",
+  "block_dev_settings_android": "false",
+  "block_dont_keep_activities_android": "true"
 }
